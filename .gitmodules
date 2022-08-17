@@ -1,0 +1,3 @@
+[submodule "DeepReg"]
+	path = DeepReg
+	url = https://github.com/markpinnock/DeepReg.git
