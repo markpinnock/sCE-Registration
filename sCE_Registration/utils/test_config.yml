@@ -1,0 +1,13 @@
+paths:
+    cuda_path: "/usr/local/cuda/lib64"
+data:
+    data_path: "D:/ProjectImages/SyntheticContrastReg"
+    target: ["AC"]
+    source: ["HQ"]
+    segs: ["AC"]
+    times: null
+    down_sample: 1
+    patch_size: [64, 64, 64]
+    num_examples: 4
+    cv_folds: 6
+    fold: 5
